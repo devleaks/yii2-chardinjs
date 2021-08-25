@@ -15,7 +15,7 @@ use yii\web\AssetBundle;
  */
 class ChardinJSAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/bower/chardin.js';
+    public $sourcePath = '@bower/chardin.js';
 
     public $css = [
         'chardinjs.css',
